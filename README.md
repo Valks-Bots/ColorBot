@@ -1,6 +1,6 @@
 # ColorBot
 ## About
-A discord bot that gives a random color to every member in a guild.
+A discord bot that gives a random color role to every member in a guild.
 
 ![Preview](preview.gif)
 
