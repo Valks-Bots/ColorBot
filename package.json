@@ -1,0 +1,21 @@
+{
+  "name": "ColorBot",
+  "version": "1.0.0",
+  "description": "Adds a random color role to every member in a guild.",
+  "main": "bot.js",
+  "repository": "https://github.com/valkyrienyanko/ColorBot",
+  "author": "valkyrienyanko",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "dev:server": "nodemon -q .",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  }
+}
