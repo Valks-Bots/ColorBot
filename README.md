@@ -2,6 +2,8 @@
 ## About
 A discord bot that gives a random color to every member in a guild.
 
+![Preview](preview.gif)
+
 ## Setup
 1. Clone `https://github.com/valkyrienyanko/ColorBot.git`
 2. Download and install `LTS` [Node.js](https://nodejs.org/en/)
